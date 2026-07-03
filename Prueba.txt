@@ -1,0 +1,5 @@
+1.¿Qué columnas tiene? ¿Cuál sería el target? ¿Hay valores nulos, clases desbalanceadas o problemas que debamos considerer?
+2. Queremos entender si las especies de pingüinos se pueden distinguir usando sus medidas físicas.
+¿Qué variables parecen separar mejor las especies? Justifica con tablas o gráficos simples.
+3. Construye un modelo simple para predecir species usando las variables físicas.
+Explica cómo manejas los nulos, cómo separas train/test y qué métrica usarías para evaluar el modelo.
